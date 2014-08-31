@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB363F0219B3A4F900719C45 /* CCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = BB363F0119B3A4F900719C45 /* CCTest.m */; };
 		BB422164196193F0001304B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB422163196193F0001304B8 /* main.m */; };
 		BB422167196193F0001304B8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BB422166196193F0001304B8 /* AppDelegate.m */; };
 		BB42216A196193F0001304B8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB422169196193F0001304B8 /* ViewController.m */; };
@@ -44,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BB363F0019B3A4F900719C45 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTest.h; sourceTree = "<group>"; };
+		BB363F0119B3A4F900719C45 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTest.m; sourceTree = "<group>"; };
 		BB42215E196193F0001304B8 /* PirateP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PirateP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB422162196193F0001304B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB422163196193F0001304B8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -126,6 +129,8 @@
 				BB42216B196193F0001304B8 /* Main.storyboard */,
 				BB422168196193F0001304B8 /* ViewController.h */,
 				BB422169196193F0001304B8 /* ViewController.m */,
+				BB363F0019B3A4F900719C45 /* CCTest.h */,
+				BB363F0119B3A4F900719C45 /* CCTest.m */,
 				BB42219C19628F0F001304B8 /* Model */,
 				BB42216E196193F0001304B8 /* Images.xcassets */,
 				BB422161196193F0001304B8 /* Supporting Files */,
@@ -318,6 +323,7 @@
 				BBC16D09196EF7020071FA8D /* Boss.m in Sources */,
 				BB422164196193F0001304B8 /* main.m in Sources */,
 				BB42219F19628F20001304B8 /* Tile.m in Sources */,
+				BB363F0219B3A4F900719C45 /* CCTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
